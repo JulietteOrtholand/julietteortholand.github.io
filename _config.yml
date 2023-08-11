@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Clément
+first_name: Juliette
 middle_name: 
-last_name: Chadebec
-email: clement.chadebec@inria.fr
+last_name: Ortholand
+email: juliette.ortholand@inria.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -42,11 +42,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: clementchadebec # your GitHub user name
-gitlab_username: # your GitLab user name
-twitter_username: CChadebec # your Twitter handle
-linkedin_username: clement-chadebec # your LinkedIn user name
-scholar_userid: c6VZwnwAAAAJ&hl=fr&authuser=1 # your Google Scholar ID
+github_username: JulietteOrtholand # your GitHub user name
+gitlab_username: JulietteOrtholand# your GitLab user name
+twitter_username: #CChadebec # your Twitter handle
+linkedin_username: juliette-ortholand # your LinkedIn user name
+scholar_userid: iTNAkQ0AAAAJ&hl=en # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
