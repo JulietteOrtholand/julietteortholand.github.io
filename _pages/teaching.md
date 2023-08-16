@@ -8,14 +8,14 @@ nav: true
 
 <!-- #2023 -->
 <div class="publications">
-    <h2 class="year">2022</h2>
+    <h2 class="year">2023</h2>
         <div class="row">
             <div class="col-sm-3 abbr">
                 Sorbonne Université
             </div>
             <div class="col-sm-8">
                 <div class="title"><b>Teaching Assistant in Mathematics</b></div>
-                <em>LU1MA003 - Advanced Mathematics (L1)</em>
+                <em>LU1MA003 - Advanced Mathematics (L1) [52h]</em>
             </div>
         </div>
 </div>
@@ -29,7 +29,7 @@ nav: true
             </div>
             <div class="col-sm-8">
                 <div class="title"><b>Teaching Assistant in Mathematics</b></div>
-                <em>LU1MA003 - Advanced Mathematics (L1)</em>
+                <em>LU1MA003 - Advanced Mathematics (L1) [52h]</em>
             </div>
         </div>
 </div>
