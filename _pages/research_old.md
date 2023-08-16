@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /research/
+permalink: /old/
 title: research
 description:
 years: [2021, 2020]
-nav: true
+nav: False
 ---
 
 <div class="section_title">Publications</div>
