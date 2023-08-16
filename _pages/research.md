@@ -37,8 +37,6 @@ Methods: We selected all patients with repeated observations in the PRO-ACT data
 Results: We included 1,438 patients from the PRO-ACT database. They were 51% men with spinal onset, 12% men with bulbar onset, 26% women with spinal onset, and 11% women with bulbar onset. We showed a significant influence of both sex and onset site on the ALSFRSr progression. The BMI decreased 8.9 months earlier (95% CI = [3.9, 13.8]) in women than men, after correction for the onset site. Among patients with bulbar onset, FVC was impaired 2.6 months earlier (95% CI = [0.6, 4.6]) in women. 
 Conclusion: Using a multivariable disease modelling approach, we showed that sex and onset site are important drivers of the progression of motor function, BMI, and FVC decline. 
           </p>
-      </div>
-    </div>
   </div>
 
 
