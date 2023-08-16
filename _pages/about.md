@@ -6,7 +6,7 @@ description: Brain Institute, INRIA
 
 profile:
   align: right
-  image: photo_ME.png
+  image: photo_ME.jpg
   address: >
    
 news: false  # includes a list of news items
