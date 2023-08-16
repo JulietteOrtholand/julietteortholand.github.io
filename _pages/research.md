@@ -22,7 +22,7 @@ nav: true
     <div id="3" class="col-sm-8">
         <div class="title">Interaction of sex and onset site on the disease trajectory of Amyotrophic Lateral Sclerosis</div>
         <div class="author">
-          <em>J. Ortholand<em>, P.-F. Pradat, S. Durrleman, S. Tezenas Du Montcel 
+          J. Ortholand, P.-F. Pradat, S. Durrleman, S. Tezenas Du Montcel 
         </div>
          <div class="book"><em>Accepted to Neural Information Processing Systems (NeurIPS 2022).</em></div>
       <div class="links">
