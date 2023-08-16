@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Leaspy
-img: assets/img/pythae_project/site.png
+img: assets/img/leaspy.png
 description: A python library for longitudinal data
 redirect: https://gitlab.com/icm-institute/aramislab/leaspy
 gitlab: https://gitlab.com/icm-institute/aramislab/leaspy
