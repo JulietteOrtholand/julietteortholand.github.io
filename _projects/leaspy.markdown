@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Pythae
+title: Leaspy
 img: assets/img/pythae_project/site.png
-description: A python library for VAEs benchmarking
-redirect: https://github.com/clementchadebec/benchmark_VAE
-github: https://github.com/clementchadebec/benchmark_VAE
-gitstars: https://github.com/clementchadebec/benchmark_VAE/stargazers
-licence: https://opensource.org/licenses/Apache-2.0
+description: A python library for longitudinal data
+redirect: https://gitlab.com/icm-institute/aramislab/leaspy
+gitlab: https://gitlab.com/icm-institute/aramislab/leaspy
 importance: 1
 category: work
 ---
