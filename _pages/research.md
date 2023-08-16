@@ -1,4 +1,4 @@
-![image](https://github.com/JulietteOrtholand/julietteortholand.github.io/assets/23218249/c8d1e0bb-7945-4140-ba64-5575c74e3383)---
+---
 layout: page
 permalink: /research/
 title: research
