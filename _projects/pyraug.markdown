@@ -10,7 +10,7 @@ stars: https://github.com/clementchadebec/pyraug/stargazers
 pypi_package: https://pypi.org/project/pyraug/
 arxiv: https://arxiv.org/abs/2105.00026
 importance: 1
-category: work
+category: old
 
 bibliography: 2018-12-22-distill.bib
 ---
