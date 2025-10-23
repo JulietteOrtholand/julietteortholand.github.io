@@ -28,6 +28,7 @@ nav: true
         Abs
         </a>
          <a href="https://arxiv.org/abs/2501.08960"   role="button" target="_blank">Article</a>
+          <a href="https://gitlab.com/JulietteOrtholand/joint_multi"   role="button" target="_blank">Repository</a>
       </div>
       <div class="abstract hidden">
         <p>
@@ -54,6 +55,7 @@ nav: true
         Abs
         </a>
         <a href="https://arxiv.org/abs/2401.17249"   role="button" target="_blank">Article</a>
+        <a href="https://gitlab.com/JulietteOrtholand/jm_article"   role="button" target="_blank">Repository</a>
       </div>
       <div class="abstract hidden">
         <p>
@@ -92,6 +94,7 @@ To conclude, we propose a new model better suited in the context of unreliable r
         Abs
         </a>
         <a href="https://link.springer.com/article/10.1007/s00415-023-11932-7"   role="button" target="_blank">Article</a>
+         <a href="https://gitlab.com/JulietteOrtholand/als_sex_subtype_article"   role="button" target="_blank">Repository</a>
       </div>
       <div class="abstract hidden">
         <p>
