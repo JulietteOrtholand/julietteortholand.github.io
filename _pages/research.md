@@ -11,24 +11,87 @@ nav: true
 
 <div class="publications">
 
+<h2 class="year">2025</h2>
+<!-- MULTIVARIATE -->
+  <div class="row">
+    <div class="col-sm-2 abbr">
+      <span class="badge badge-info">preprint</span>
+    </div>
+    <div id="3" class="col-sm-8">
+        <div class="title">A joint spatiotemporal model for multiple longitudinal markers and competing events</div>
+        <div class="author">
+          <em>J. Ortholand</em>, S. Durrleman, S. Tezenas Du Montcel 
+        </div>
+         <div class="book"><em>Arxiv</em></div>
+      <div class="links">
+        <a class="abstract btn btn-sm z-depth-0" role="button">
+        Abs
+        </a>
+         <a href="https://arxiv.org/abs/2501.08960"   role="button" target="_blank">Article</a>
+      </div>
+      <div class="abstract hidden">
+        <p>
+          Non-terminal events can represent a meaningful change in a patient's life. Thus, better understanding and predicting their occurrence can bring valuable information to individuals. In a context where longitudinal markers could inform these events, joint models with competing risks have been developed. Their precision relies on a reference time for which disease onset is often used. Nevertheless, chronic diseases have no clear onset, making it difficult to define a precise reference time. We propose a Joint cause-specific Spatiotemporal model to overcome this limitation and to capture a shared latent process, a latent age (temporal aspect), associated with the ordering of the longitudinal outcomes (spatial aspect). First, we validated our model on simulated real-like data. Then, we benchmarked our model with a shared-random-effect joint model on real ALS data using the PRO-ACT dataset. Finally, to show how the model could be used for description tasks, we analysed the impact of sex and onset site on the progression of ALS as well as the initiation of Non-Invasive Ventilation. The Joint cause-specific spatiotemporal model achieved similar performance to the shared random effect joint model while capturing the latent disease age and the impact of the ordering of longitudinal outcomes on the occurrence of the events with fewer parameters. The application study confirmed existing results for the Longitudinal outcomes and showed how to interpret the model. The proposed approach by disentangling a temporal and a spatial aspect of the disease opens the perspective to capture meaningful change in future clinical trials.
+
+          </p>
+        </div>
+    </div>
+  </div>
+
+  <!-- UNIVARIATE -->
+  <div class="row">
+    <div class="col-sm-2 abbr">
+      <span class="badge badge-secondary">proceedings</span>
+    </div>
+    <div id="3" class="col-sm-8">
+        <div class="title">Joint model with latent disease age: overcoming the need for reference time</div>
+        <div class="author">
+          <em>J. Ortholand</em>, N. Gensollen, S. Durrleman, S. Tezenas Du Montcel 
+        </div>
+         <div class="book"><em>Accepted in Statistical Methods in Medical Research</em></div>
+      <div class="links">
+        <a class="abstract btn btn-sm z-depth-0" role="button">
+        Abs
+        </a>
+        <a href="https://arxiv.org/abs/2401.17249"   role="button" target="_blank">Article</a>
+      </div>
+      <div class="abstract hidden">
+        <p>
+          Heterogeneity of the progression of neurodegenerative diseases is one of the main challenges faced in developing therapies. Thanks to the increasing number of clinical databases, progression models have allowed a better understanding of this heterogeneity. Joint models have proven their effectiveness by combining longitudinal and survival data. Nevertheless, they require a reference time, which is ill-defined for neurodegenerative diseases, where biological underlying processes start before the first symptoms.
+
+In this work, we propose a joint non-linear mixed-effect model with a latent disease age, to overcome this need for a precise reference time.
+
+We used a longitudinal model with a latent disease age as a longitudinal sub-model. We associated it with a survival sub-model that estimates a Weibull distribution from the latent disease age. We validated our model on simulated data and benchmarked it with a state-of-the-art joint model on data from patients with Amyotrophic Lateral Sclerosis(ALS). Finally, we showed how the model could be used to describe ALS heterogeneity.
+
+Our model got significantly better results than the state-of-the-art joint model for absolute bias on ALSFRS revised score (4.21(SD 4.41) versus 4.24(SD 4.14)(p-value=1.4e-17)), and mean-cumulative-AUC for right-censored events on death (0.67(0.07) versus 0.61(0.09)(p-value=1.7e-03)).
+
+To conclude, we propose a new model better suited in the context of unreliable reference time.
+
+          </p>
+        </div>
+    </div>
+  </div>
+
+
   <!-- #2023 -->
   <h2 class="year">2023</h2>
 
   <!-- ALS -->
   <div class="row">
     <div class="col-sm-2 abbr">
-      <span class="badge badge-secondary">proceedings</span>
+      <span class="badge badge-success">journal</span>
     </div>
     <div id="3" class="col-sm-8">
         <div class="title">Interaction of sex and onset site on the disease trajectory of Amyotrophic Lateral Sclerosis</div>
         <div class="author">
           <em>J. Ortholand</em>, P.-F. Pradat, S. Durrleman, S. Tezenas Du Montcel 
         </div>
-         <div class="book"><em>Accepted to Journal of Neurology.</em></div>
+         <div class="book"><em>Journal of Neurology.</em></div>
       <div class="links">
         <a class="abstract btn btn-sm z-depth-0" role="button">
         Abs
         </a>
+        <a href="https://link.springer.com/article/10.1007/s00415-023-11932-7"   role="button" target="_blank">Article</a>
       </div>
       <div class="abstract hidden">
         <p>
