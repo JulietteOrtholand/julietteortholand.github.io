@@ -33,3 +33,28 @@ nav: true
             </div>
         </div>
 </div>
+<div class="publications">
+    <h2 class="year">2022</h2>
+        <div class="row">
+            <div class="col-sm-3 abbr">
+                RETIF
+            </div>
+            <div class="col-sm-8">
+                <div class="title"><b>French teacher at A0 level</b></div>
+                <em>basic literacy education for in average 10 persons 1h30/week</em>
+            </div>
+        </div>
+</div>
+<!-- #2021 -->
+<div class="publications">
+    <h2 class="year">2021</h2>
+        <div class="row">
+            <div class="col-sm-3 abbr">
+                RETIF
+            </div>
+            <div class="col-sm-8">
+                <div class="title"><b>French teacher at A0 level</b></div>
+                <em>basic literacy education for in average 10 persons 1h30/week</em>
+            </div>
+        </div>
+</div>
