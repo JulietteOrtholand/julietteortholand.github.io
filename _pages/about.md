@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Brain Institute, INRIA
+description: Amsterdam UMC
 
 profile:
   align: right
@@ -13,7 +13,6 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am a postdoc at Amsterdam UMC in the [KIK department](https://kik.amsterdamumc.org/). I am working on causal inference in a time-varying treatment context applied to Intensive Care Unit. 
 
-I started a Ph.D in applied mathematics for medicine in September 2021 under the supervision of [Stanley Durrleman](https://who.rocq.inria.fr/Stanley.Durrleman/) at Brain Institute, INRIA ([ARAMIS](https://www.aramislab.fr/) team). 
-
-I work on the development of models for longitudinal data and events in the context of neurodegenerative diseases. The models could then be used for prediction and/or for the description of the pathology.
+I have a Ph.D. in applied mathematics for medicine focusing on description and prediction of longitudinal data and events at INRIA ([ARAMIS](https://www.aramislab.fr/) team). In particular I worked on developping a joint model to study Amyotrophic Lateral Sclerosis. After my Ph.D. I made a collaboration with [Harvard Medical School and MGH Biostatistics](https://biostatistics.massgeneral.org/about/) to study the causal aspect of longitudinal data truncated by death still in the context of ALS.
