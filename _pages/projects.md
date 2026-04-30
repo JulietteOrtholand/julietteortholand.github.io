@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Software
+title: software
 permalink: /projects/
-description: Overview of the project I am working on
+description: Overview of software I have contributed to
 nav: true
 display_categories: [work]
 horizontal: false
