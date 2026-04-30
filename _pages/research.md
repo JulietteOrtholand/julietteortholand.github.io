@@ -29,7 +29,7 @@ nav: true
         Abs
         </a>
          <a href="https://arxiv.org/abs/2604.26410"   role="button" target="_blank">Article</a>
-         <a href="https://github.com/JulietteOrtholand/truncation_by_death"   role="button" target="_blank">Repository</a>
+         <a href="https://github.com/JulietteOrtholand/TBDEstimates"   role="button" target="_blank">Repository</a>
       </div>
       <div class="abstract hidden">
         <p>
