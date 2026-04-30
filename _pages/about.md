@@ -20,3 +20,5 @@ I hold a [Ph.D. in Statistics](https://theses.hal.science/tel-04770912/), comple
 I then completed a first postdoctoral position in collaboration with [Marie-Abèle Bind](https://biostatistics.massgeneral.org/faculty/marie-abele-bind-phd/) (Harvard Medical School and MGH Biostatistics) and [Young Lee](https://www.sutd.edu.sg/profile/young-lee) (Singapore University of Technology and Design), where I studied causal questions arising in longitudinal data truncated by death.
 
 While my primary interest lies in methodological research, I place strong emphasis on ensuring that new methods are motivated by and useful for real clinical questions.
+
+**_Check my latest paper on causal estimand for longitudinal data truncated by death [here](https://arxiv.org/abs/2604.26410) !_**
