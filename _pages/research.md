@@ -12,6 +12,35 @@ nav: true
 <div class="publications">
 
 <h2 class="year">2025</h2>
+
+<!-- CAUSAL ESTIMAND -->
+  <div class="row">
+    <div class="col-sm-2 abbr">
+      <span class="badge badge-info">preprint</span>
+    </div>
+    <div id="3" class="col-sm-8">
+        <div class="title">Longitudinal Outcomes Truncated by Death: Causal Estimands and Bayesian Estimators</div>
+        <div class="author">
+          <em>J. Ortholand</em> Y. Lee, M.-A. C. Bind 
+        </div>
+         <div class="book"><em>Arxiv</em></div>
+      <div class="links">
+        <a class="abstract btn btn-sm z-depth-0" role="button">
+        Abs
+        </a>
+         <a href="https://arxiv.org/abs/2604.26410"   role="button" target="_blank">Article</a>
+         <a href="https://github.com/JulietteOrtholand/truncation_by_death"   role="button" target="_blank">Repository</a>
+      </div>
+      <div class="abstract hidden">
+        <p>
+          Defining a causal estimand for a longitudinal outcome truncated by death is challenging, because the outcome may be undefined at the end of follow-up. Although a range of estimands and several estimators have been proposed, guidance on the underlying causal assumptions and on the contexts in which each estimand is most appropriate remains limited.
+We propose a framework to clarify the challenges of defining causal estimands in a longitudinal setting with censoring due to death. Within this framework, we review existing estimands and make explicit the assumptions required for their identification and estimation. We develop Bayesian estimators for each estimand and compare their behavior in a simulation study. Finally, we illustrate the proposed approach using data from a randomized controlled trial in amyotrophic lateral sclerosis.
+We show that the main difficulty arises from the lack of a natural notion of ordering and distance for outcomes truncated by death. This leads to an inherently multifactorial problem. In this context, the stratified average causal effect, combined with restricted mean survival time, provides a more complete characterisation of treatment effects. 
+          </p>
+        </div>
+    </div>
+  </div>
+
 <!-- MULTIVARIATE -->
   <div class="row">
     <div class="col-sm-2 abbr">
